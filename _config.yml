@@ -3,7 +3,6 @@ baseurl: ""
 url: "https://brianna.panasenco.com"
 title: Brianna's Blog # site's title
 description: "A website with blog posts and pages" # used by search engines
-comments:true
 
 defaults:
   - 
@@ -64,7 +63,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: brianna-panasenco
+  disqus_shortname: brianna.panasenco
   katex: true # Enable if using math markup
 
   # Localization strings
